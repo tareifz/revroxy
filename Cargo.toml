@@ -1,0 +1,12 @@
+[package]
+name = "revroxy"
+version = "0.1.0"
+authors = ["tareifz <root@tareifz.me>"]
+
+[dependencies]
+actix = "0.5.8"
+actix-web = "0.6"
+
+serde = "1.0.66"
+serde_derive = "1.0.66"
+serde_json = "1.0"
